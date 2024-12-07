@@ -7,4 +7,5 @@ Are you tired of the stress and hassle of moving?  Let **Move It LLC** take the 
 
 **Contact us today for a free quote!**
 
-**`NOTICE:`** `THIS IS A FAKE COMPANY THIS IS NOT MADE TO GET BUISNESS AND GENERATE MONEY THIS IS JUST A TEMPLATE! Do NOT provide any personal information or payment. Please be carefull there may be people who may have download this as a .ZIP file and made a website useing this. IF anything happens to you or you assets I am not resposiable Please refer to the LICENSE for more information.`
+**`NOTICE:`**
+`THIS IS A FAKE COMPANY THIS IS NOT MADE TO GET BUISNESS AND GENERATE MONEY THIS IS JUST A TEMPLATE! Do NOT provide any personal information or payment. Please be carefull there may be people who may have download this as a .ZIP file and made a website useing this. IF anything happens to you or you assets I am not resposiable Please refer to the LICENSE for more information.`
